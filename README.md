@@ -2,7 +2,6 @@
 Smart Activation Script - Activate Windows fully and with all versions of Microsoft
 
 - File : KMS_NEO_Microsoft_v1.5.rar
-- Version : 1.5
 - Password : neo22
 
 Developer : AbdulRaouf Saffaf
